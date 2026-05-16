@@ -1,0 +1,6 @@
+{
+  "name": "LuxeEstate",
+  "description": "A premium modern real estate platform for luxury villas, apartments, and commercial properties with an elegant UI and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
