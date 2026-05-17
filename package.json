@@ -7,9 +7,9 @@
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
     "preview": "vite preview",
-    "server": "node server.js",
-    "db:init": "node server.js",
-    "clean": "rm -rf dist server.js",
+    "server": "node backend/server.js",
+    "db:init": "node backend/server.js",
+    "clean": "rm -rf dist backend/server.js",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
